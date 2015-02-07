@@ -4,14 +4,14 @@ return 3.1415;
 }
 
 double f() {
-return "This is just wrong";
+return 0.0; // "WORKAROUND" //"This is just wrong";
 }
 
 int main() { 
 printf("hello world\n"); 
 printf("Pi is %f\n", pi() );
 
-f();
+printf ("Let's check the workaround %f ", f() );
 
 return 0;
 }
