@@ -3,8 +3,8 @@ double pi() {
 return 3.1415;
 }
 
-double f() {
-return 0.0; // "WORKAROUND" //"This is just wrong";
+const char *f() {
+return "This is just wrong";
 }
 
 int main() { 
