@@ -11,5 +11,7 @@ int main() {
 printf("hello world\n"); 
 printf("Pi is %f\n", pi() );
 
+f();
+
 return 0;
 }
