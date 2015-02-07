@@ -11,7 +11,7 @@ int main() {
 printf("hello world\n"); 
 printf("Pi is %f\n", pi() );
 
-printf ("Let's check the workaround %f ", f() );
+printf ("Let's check the workaround %f \n", f() );
 
 return 0;
 }
