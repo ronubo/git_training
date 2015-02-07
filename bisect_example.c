@@ -4,7 +4,7 @@ return 3.1415;
 }
 
 const char *f() {
-return "This is just wrong";
+return "This is right. World peace accomplished. The programmer is the one true master of c.";
 }
 
 int main() { 
