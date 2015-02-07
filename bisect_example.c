@@ -3,7 +3,9 @@ double pi() {
 return 3.1415;
 }
 
-
+double f() {
+return "This is just wrong";
+}
 
 int main() { 
 printf("hello world\n"); 
